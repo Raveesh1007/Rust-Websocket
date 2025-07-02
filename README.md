@@ -69,16 +69,3 @@ websocat ws://127.0.0.1:7878/ws
 websocat -H="Authorization: Token 6smtr8ke3s7yq63f3zug9z3th" ws://127.0.0.1:7878/ws-private
 ```
 
-## Dependencies
-- warp
-- tokio
-- futures
-- serde
-- serde_json
-- structopt
-- thiserror
-- pretty_env_logger
-- log
-
-## License
-MIT
